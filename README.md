@@ -1,6 +1,8 @@
 # Real-Time Collaborative Code Editor
 
 A powerful real-time collaborative code editor that supports multi-user editing and live code execution. Built with modern web technologies to provide a seamless coding experience.
+![Screenshot 2025-05-18 225728](https://github.com/user-attachments/assets/7c9ee0ee-92ca-431c-ace6-d7a517ed08f2)
+
 
 ## Technology Stack
 
